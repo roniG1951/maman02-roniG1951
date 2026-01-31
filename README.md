@@ -1,10 +1,10 @@
 ## Grade
 
-[![Grade](https://img.shields.io/badge/Grade-0%25-red)](https://github.com/baraksu-class-2026/baraksu-class-2026-classroom-01-maman02/actions/runs/21365748254)
+[![Grade](https://img.shields.io/badge/Grade-0%25-red)](https://github.com/baraksu-class-2026/baraksu-class-2026-classroom-01-maman02/actions/runs/21368383799)
 
 ## Tests
 
-[📊 View Test Reports](https://github.com/baraksu-class-2026/baraksu-class-2026-classroom-01-maman02/actions/runs/21365748254)
+[📊 View Test Reports](https://github.com/baraksu-class-2026/baraksu-class-2026-classroom-01-maman02/actions/runs/21368383799)
 
 ## AI Code Review
 
