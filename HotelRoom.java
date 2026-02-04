@@ -113,5 +113,9 @@ public class HotelRoom {
         _occupied = false;
         _guest = "";
     }
+    
+    public boolean roomNumEquals(int other){
+        return _roomNum == other;
+    }
 }
 
