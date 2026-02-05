@@ -1,4 +1,3 @@
-
 public class HotelRoom {
     private int _roomNum;
     private int _numBeds;
@@ -118,4 +117,3 @@ public class HotelRoom {
         return _roomNum == other;
     }
 }
-

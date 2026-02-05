@@ -46,21 +46,14 @@ public class Hotel {
         }
     }
     // בודק אם החדרים הם null או לא         
-    public static void nullVerify(HotelRoom a, HotelRoom b, HotelRoom c) {
-        if(a == null || b == null || c == null){
-            return;
-        }
-    }
     //מדפיס את החדרים         
     public static void display(HotelRoom a, HotelRoom b, HotelRoom c) {
-        nullVerify(a, b, c);
         System.out.println(a);
         System.out.println(b);
         System.out.println(c);
     }
     
     public static void displaySorted(HotelRoom a, HotelRoom b, HotelRoom c) {
-        nullVerify(a, b, c);
         HotelRoom first = a;
         HotelRoom second = b;
         HotelRoom third = c;
